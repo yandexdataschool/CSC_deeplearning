@@ -1,6 +1,6 @@
 # CSC_deeplearning
 
-[![Join the chat at https://gitter.im/yandexdataschool/CSC_deeplearning](https://badges.gitter.im/yandexdataschool/CSC_deeplearning.svg)](https://gitter.im/yandexdataschool/CSC_deeplearning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/csc_deeplearning) 
+[![Join the chat at https://gitter.im/yandexdataschool/CSC_deeplearning](https://badges.gitter.im/yandexdataschool/CSC_deeplearning.svg)](https://gitter.im/yandexdataschool/CSC_deeplearning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/csc_deeplearning) [feedback_form](https://docs.google.com/forms/d/e/1FAIpQLSdurWw97Sm9xCyYwC8g3iB5EibITnoPJW2IkOVQYE_kcXPh6Q/viewform)
 
 Crash-course deep learning in 3 days.
 
